@@ -1,0 +1,14 @@
+{
+  "name": "kpop-concert-tracker",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @kpop-concert-tracker/web dev",
+    "build": "pnpm --filter @kpop-concert-tracker/web build",
+    "preview": "pnpm --filter @kpop-concert-tracker/web preview",
+    "typecheck": "pnpm --filter @kpop-concert-tracker/web exec tsc -b",
+    "test": "pnpm --filter @kpop-concert-tracker/web test"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2"
+  }
+}

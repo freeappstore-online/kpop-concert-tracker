@@ -1,0 +1,15 @@
+{
+  "apis": [
+    {
+      "host": "app.ticketmaster.com",
+      "secretName": "TICKETMASTER_KEY",
+      "injectKind": "query",
+      "pattern": "https://app.ticketmaster.com/",
+      "methods": [
+        "GET"
+      ],
+      "injectName": "apikey",
+      "description": "Ticketmaster Discovery API for K-pop concert events worldwide"
+    }
+  ]
+}
