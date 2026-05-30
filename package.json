@@ -1,6 +1,7 @@
 {
   "name": "kpop-concert-tracker",
   "private": true,
+  "packageManager": "pnpm@10.30.3",
   "scripts": {
     "dev": "pnpm --filter @kpop-concert-tracker/web dev",
     "build": "pnpm --filter @kpop-concert-tracker/web build",
