@@ -9,7 +9,7 @@
     "preview": "vite --port 4173"
   },
   "dependencies": {
-    "@freeappstore/sdk": "latest",
+    "@freeappstore/sdk": "^0.16.39",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -20,6 +20,7 @@
     "tailwindcss": "^4.1.0",
     "@tailwindcss/vite": "^4.1.0",
     "typescript": "~5.7.2",
-    "vite": "^6.2.0"
+    "vite": "^6.2.0",
+    "vite-plugin-pwa": "^1.0"
   }
 }
