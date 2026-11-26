@@ -9,7 +9,7 @@
     "preview": "vite --port 4173"
   },
   "dependencies": {
-    "@freeappstore/sdk": "^0.17.2",
+    "@freeappstore/sdk": "^0.20.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
